@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "nguyenvantuongkhoibaiktra/1.0.0": {
+        "runtime": {
+          "nguyenvantuongkhoibaiktra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nguyenvantuongkhoibaiktra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
