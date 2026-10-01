@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\bin\Debug\net10.0\nguyenvantuongkhoibaiktra.exe
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\bin\Debug\net10.0\nguyenvantuongkhoibaiktra.deps.json
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\bin\Debug\net10.0\nguyenvantuongkhoibaiktra.runtimeconfig.json
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\bin\Debug\net10.0\nguyenvantuongkhoibaiktra.dll
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\bin\Debug\net10.0\nguyenvantuongkhoibaiktra.pdb
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.AssemblyInfo.cs
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.dll
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\refint\nguyenvantuongkhoibaiktra.dll
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.pdb
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\nguyenvantuongkhoibaiktra.genruntimeconfig.cache
+C:\Users\PC\source\repos\nguyenvantuongkhoibaiktra\nguyenvantuongkhoibaiktra\obj\Debug\net10.0\ref\nguyenvantuongkhoibaiktra.dll
